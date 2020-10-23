@@ -1,0 +1,11 @@
+---
+title: "coconut"
+author: "Nneoma Ugwu"
+date: "10/21/2020"
+output: html_document
+---
+
+Hi I am Nneoma and I am from Jamaica. I like coconut. 
+
+
+My name is Ugwu and I am from Jamaica. I like apples. and banana 
