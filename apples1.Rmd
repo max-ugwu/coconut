@@ -1,0 +1,8 @@
+---
+title: "apples"
+author: "Nneoma Ugwu"
+date: "10/22/2020"
+output: html_document
+---
+
+My name is Ugwu and I am from Jamaica. I like apples.  
